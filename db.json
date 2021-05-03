@@ -1,0 +1,7 @@
+{
+    "database": "db_name",
+    "host": "db_host",
+    "password": "supersecretpassword",
+    "user": "postgres",
+    "query": "SELECT row_to_json(table) FROM table"
+}
