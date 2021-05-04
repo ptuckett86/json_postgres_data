@@ -1,7 +1,7 @@
 {
-    "database": "db_name",
-    "host": "db_host",
-    "password": "supersecretpassword",
+    "database": "hrapp",
+    "host": "localhost",
+    "password": "Ayden11!!",
     "user": "postgres",
-    "query": "SELECT row_to_json(table) FROM table"
+    "query": "SELECT row_to_json(ats_jobposting) FROM ats_jobposting"
 }
